@@ -11,7 +11,10 @@ public class IntroToRandom {
 		int r = 0;
 		
 		//3. Now make r random. 
+		new Random().nextInt(101);
+		
 		//   Create an object of the Random class
+	
 		//	 use .nextInt() to get a random number
 		
 
